@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: This is not a website
+title: Youki Tanaka
 email: youkitan.gr@dartmouth.com
 description: A strange look into the life of me
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: youkitan.github.io
 author:
-  name:
-  twitter: 
-  picture:
+  name: Youki Tanaka
+  twitter: youkitn
+  picture: /assets/images/profile.png
 twitter_username: youkitn
 github_username: youkitan
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+logo: /assets/images/phoenix.png
 
 # Build settings
 markdown: kramdown
