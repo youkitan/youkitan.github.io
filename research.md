@@ -1,5 +1,7 @@
 ---
 title: "Research"
+alt_title: ""
+sub_title: ""
 layout: about
 ---
 

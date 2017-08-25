@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Youki Tanaka
+title: Scope2Scanner
 email: youkitan.gr@dartmouth.com
 description: A strange look into the life of me
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: youkitan.github.io
 author:
-  name: Youki Tanaka
-  twitter: youkitn
-  picture: /assets/images/profile.png
+  name: 
+  twitter: 
+  picture:
 twitter_username: youkitn
 github_username: youkitan
 logo: /assets/images/phoenix.png
