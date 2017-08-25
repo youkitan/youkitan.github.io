@@ -1,9 +1,7 @@
 ---
-title: "Youki Tanaka"
+title: "Bio"
+alt_title: "About me"
 layout: about
 ---
 
-# Hi this is another test. 
-I think this works as a regular markdown page.
-
-
+# This page is under construction!

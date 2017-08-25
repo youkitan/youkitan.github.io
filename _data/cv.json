@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Curriculum Vitæ",
+    "label": "",
+    "picture": "",
+    "email": "youkitan.gr@dartmouth.edu",
+    "summary": "",
+    "location": {
+      "address1": "Psychological & Brain Sciences, Dartmouth College",
+      "address2": "147 Moore Hall, HB 6207",
+      "postalCode": "03755",
+      "city": "Hanover",
+      "countryCode": "USA",
+      "region": "New Hampshire"
+    },
+    "profiles": [
+      { 
+        "network": "Twitter",
+        "username": "youkitn",
+        "url": "https://twitter.com/youkitn"
+      },
+      { 
+        "network": "Github",
+        "username": "youkitan",
+        "url": "https://github.com/youkitan"
+      }
+    ]
+  },
+
+  "education": [
+      {
+      "area": "Neural Systems & Behavior",
+      "institution": "Marine Biological Laboratory",
+      "studyType": "Summer course",
+      "startDate": "Jun 2017",
+      "endDate": "Jul 2017",
+    },
+    {
+      "area": "Psychological & Brain Science",
+      "institution": "Dartmouth College",
+      "studyType": "PhD",
+      "startDate": "Sep 2015",
+      "endDate": "Present",
+    },
+    {
+      "area": "Biology",
+      "institution": "University of Waterloo",
+      "studyType": "MSc",
+      "startDate": "Sep 2014",
+      "endDate": "Transferred",
+    },
+    {
+      "institution": "University of Toronto",
+      "area": "Neuroscience & Cognitive Science",
+      "studyType": "Honours BSc",
+      "startDate": "Sep 2007",
+      "endDate": "Aug 2014",
+    }
+  ],
+  "awards": [
+    {
+      "title": "Post-Course Research Grant",
+      "date": "Aug 2017",
+      "awarder": "Marine Biological Laboratory",
+      "summary": ""
+    },
+    {
+      "title": "International Master's Student Award",
+      "date": "Sep 2014",
+      "awarder": "University of Waterloo",
+      "summary": ""
+    },
+    {
+      "title": "Science Graduate Student Award",
+      "date": "Sep 2014",
+      "awarder": "University of Waterloo",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "van der Meer, M. A. A., Carey, A. A. and Tanaka, Y. (2017), Optimizing for generalization in the decoding of internally generated activity in the hippocampus. Hippocampus, 27: 580–595.",
+      "website": "http://www.biorxiv.org/content/biorxiv/early/2017/01/24/066670.full.pdf",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Scientific Computing",
+      "level": "",
+      "keywords": ["MATLAB", "Python", "R", "Bash"]
+    },
+    {
+      "name": "Productivity",
+      "level": "",
+      "keywords": ["HTML/CSS", "Markdown", "LaTex", "Graphviz", "Git/Github"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "basic"
+    }
+  ],
+}

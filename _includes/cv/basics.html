@@ -48,8 +48,14 @@
 
     <div class="entry-content">
       <address>
-        {% if cv.basics.location.address %}
-          <span class="address">{{ cv.basics.location.address }}</span><br />
+        {% if cv.basics.location.address1 %}
+          <span class="address">{{ cv.basics.location.address1 }}</span><br />
+        {% endif %}
+        {% if cv.basics.location.address2 %}
+          <span class="address">{{ cv.basics.location.address2 }}</span><br />
+        {% endif %}
+        {% if cv.basics.location.address3 %}
+          <span class="address">{{ cv.basics.location.address3 }}</span><br />
         {% endif %}
         {% if cv.basics.location.city %}
           <span class="city">{{ cv.basics.location.city | append: ', ' }}</span>

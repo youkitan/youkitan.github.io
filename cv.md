@@ -1,8 +1,12 @@
 ---
-title: Curriculum Vitæ
+title: "CV"
+alt_title: "Curriculum Vitæ"
 layout: cv
+
+image: /assets/images/profile.png
+
 actions:
-  - label: "Download as PDF"
+  - label: "Full CV as PDF"
     icon: pdf
-    url: "#pdf-asset"
+    url: /assets/CV/CV_20170822.pdf
 ---

@@ -3,7 +3,8 @@
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+      <p> Built with <a class="link" href="https://jekyllrb.com/">Jekyll</a> using the <a class="link" href="https://github.com/mmistakes/jekyll-theme-basically-basic">Basically basic theme</a> by <a class="link" href="https://mademistakes.com">Michael Rose</a>.</p>
     {% endif %}
   </div>
 </footer>
