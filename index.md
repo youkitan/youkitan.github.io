@@ -19,7 +19,7 @@ actions:
     url: "cv.html"
 ---
 
-Welcome to my webpage! I'm currently a third year PhD student at Dartmouth College working with Mattihjs van der Meer. My research focuses on understanding the content of internally generated hippocampal sequences, commonly known as "replay", and how they relate to the structure of memory and motivational states. I study these phenomena using in-vivo electrophysiology in rats and state-of-the-art computational methods.
+Welcome to my webpage! I'm currently a third year PhD student at Dartmouth College working with Matthijs van der Meer. My research focuses on understanding the content of internally generated hippocampal sequences, commonly known as "replay", and how they relate to the structure of memory and motivational states. I study these phenomena using in-vivo electrophysiology in rats and state-of-the-art computational methods.
 
 Besides my primary research, I am a strong advocate of open science and multidisciplinary approaches. Similar to the increasing demand for translational research, I believe that a kind of intersectional research – of “scopes to scanners” – will be required to understand the full complexity of cognitive processes. As such, I am always looking for ways to open new dialogues between human and non-human researchers and experimental and computational minds.  
 
