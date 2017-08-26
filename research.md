@@ -2,7 +2,8 @@
 title: "Research"
 alt_title: ""
 sub_title: ""
-layout: about
+layout: page
+image: /assets/images/research2.png
 ---
 
 # This page is under construction!

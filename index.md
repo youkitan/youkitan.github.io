@@ -1,9 +1,9 @@
 ---
 layout: home
 paginate: true
-alt_title: " "
+alt_title: "Welcome"
 sub_title: "Hi! I'm Youki Tanaka. Nice to meet you. :-)"
-image: /assets/images/profile2.png
+image: /assets/images/motshift.png
 
 actions:
   - label: "about"
