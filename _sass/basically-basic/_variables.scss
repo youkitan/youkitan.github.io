@@ -3,10 +3,12 @@
    ========================================================================== */
 
 /* Breakpoint widths */
+$xsmall: 200px !default;
 $small: 320px !default;
 $medium: 768px !default;
 $large: 1024px !default;
 $xlarge: 1280px !default;
+$xxlarge: 1600px !default;
 
 /* Fluid type */
 $base-font-size: 16px !default;
@@ -56,7 +58,7 @@ $overlay-color: $base-color !default;
 $main-max-width: $xlarge !default;
 
 /* Width of the sidebar */
-$sidebar-width: $small !default;
+$sidebar-width: $xsmall !default;
 
 /* Background color of the sidebar */
 $sidebar-background-color: #fff !default;

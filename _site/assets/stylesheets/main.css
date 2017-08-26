@@ -265,7 +265,7 @@ main section:after { content: " "; display: block; clear: both; }
 .inner { max-width: 1024px; }
 
 /* Layout specific adjustments ========================================================================== */
-@media (min-width: 64em) { .layout--post .entry-content, .layout--page .entry-content { width: 87.3417721519%; } }
+@media (min-width: 48em) { .layout--post .entry-content, .layout--page .entry-content { -ms-flex: 1; flex: 1; /*@include breakpoint($large) {  width: span(14 of 16);*/ } }
 
 .layout--about .entry-wrap { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 @media (min-width: 48em) { .layout--about .entry-wrap { -ms-flex-wrap: nowrap; flex-wrap: nowrap; } }
@@ -315,8 +315,8 @@ tr, td, th { vertical-align: middle; }
 .site-logo { width: 50px; height: 50px; margin-right: 0.5rem; border-radius: 50%; }
 
 /* ========================================================================== Sidebar ========================================================================== */
-.sidebar { position: fixed; top: 0; left: 0; width: 100%; max-width: 320px; height: 100%; z-index: 50; }
-@media (min-width: 64em) { .sidebar { max-width: 480px; } }
+.sidebar { position: fixed; top: 0; left: 0; width: 100%; max-width: 200px; height: 100%; z-index: 50; }
+@media (min-width: 64em) { .sidebar { max-width: 300px; } }
 .sidebar li { transform: translateX(-1rem); transition: all 0.5s; opacity: 0; /* line hover effect */ }
 .sidebar li.is--moved { transform: translateX(0); opacity: 1; }
 .sidebar li a { position: relative; color: #393e46; }
@@ -625,8 +625,8 @@ figure.align-center figcaption { text-align: center; }
 .align-left, a img.align-left { margin-right: 1rem; margin-bottom: 1rem; float: left; }
 
 /* Sidebar Pusher ========================================================================== */
-.is--pushed { transform: translateX(320px); transform-origin: right; }
-@media (min-width: 64em) { .is--pushed { transform: translateX(480px); } }
+.is--pushed { transform: translateX(200px); transform-origin: right; }
+@media (min-width: 64em) { .is--pushed { transform: translateX(300px); } }
 
 .clearfix::after { display: block; clear: both; content: ''; }
 

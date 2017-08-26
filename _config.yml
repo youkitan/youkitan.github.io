@@ -29,6 +29,8 @@ logo: /assets/images/s2s_logo.png
 
 # Build settings
 markdown: kramdown
+# parse_block_html: true # parse markdown inside block-level HTML tag
+
 theme: jekyll-theme-basically-basic
 plugins:
   - jekyll-feed

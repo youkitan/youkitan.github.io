@@ -7,6 +7,7 @@ image: /assets/images/profile2.png
 author:
   name: "Youki Tanaka"
   picture: /assets/images/profile.png
+
 ---
 #### long long time ago in a galaxy far far away...
 
@@ -16,5 +17,23 @@ Towards a MSc, I went to work with [Matthijs van der Meer](http://pbs.dartmouth.
 
 My stay at Waterloo was short lived however, and I moved midway into my degree to Dartmouth College with the van der Meer lab where I am currently pursuing my PhD!
 
-
 <!-- # This page is under construction! -->
+
+
+<!-- actions:
+  - label: "home"
+    icon: arrow-right
+    url: index.html
+
+  - label: "research"
+    icon: arrow-right
+    url: research.html
+
+  - label: "fun"
+    icon: arrow-right
+    url: "fun.html"
+
+  - label: "cv"
+    icon: arrow-right
+    url: "cv.html"
+ -->

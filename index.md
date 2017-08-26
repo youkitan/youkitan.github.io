@@ -14,7 +14,11 @@ actions:
     icon: arrow-right
     url: research.html
 
-  - label: "CV"
+  - label: "fun"
+    icon: arrow-right
+    url: "fun.html"
+
+  - label: "cv"
     icon: arrow-right
     url: "cv.html"
 ---
