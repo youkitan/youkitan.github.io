@@ -1,7 +1,6 @@
 <ul class="contact-list">
     <li><a href="http://www.vandermeerlab.org">
-<!--             <span class="icon icon-twitter">{% include icon-arrow-right.svg %}</span>
- -->            <img src="/assets/images/logo2.png" alt="">
+            <img src="/assets/images/logo2.png" alt="">
         </a>
     </li>
 
@@ -22,12 +21,12 @@
     <li>{% include icon-twitter.html username=site.twitter_username label='Twitter' %}</li>
   {% endif %}
 
-  <li>
+<!--   <li>
     {% if site.plugins contains 'jekyll-feed' %}
       <a href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" title="Atom Feed">
         <span class="icon icon--rss">{% include icon-rss.svg %}</span>
         <span class="label">{{ site.data.theme.t.subscribe | default: 'Subscribe' }}</span>
       </a>
     {% endif %}
-  </li>
+  </li> -->
 </ul>
