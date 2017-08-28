@@ -5,6 +5,7 @@ alt_title: ""
 sub_title: "Scopes to scanners: connecting research one synapse at a time"
 paginate: true
 image: /assets/images/research2.png
+
 ---
 Broadly speaking, my research interests can be captured by three questions: 1) does it combine ideas or methods from multiple disciplines? 2) does it help me towards my goal of understanding curiosity, or intrinsic motivation? 3) does it help improve the way people can do research?
 
@@ -12,7 +13,7 @@ Broadly speaking, my research interests can be captured by three questions: 1) d
 
 <br>
 ### Principled decoding of hippocampal replay
-<a href="{{site.url}}/assets/images/poster.pdf"><img hspace="10" vspace="10" style="float:right; padding-left:10px;" src="{{site.url}}/assets/images/replay.png" alt="Alt Text" ></a>
+<a href="{{site.url}}/assets/images/poster.pdf"><img hspace="10" vspace="10" style="float:right; padding-left:10px;" src="{{site.url}}/assets/images/replay.svg" alt="Alt Text" ></a>
 Hippocampal place cell activity forms internally generated sequences called “replays” that represent spatiotemporal trajectories during periods of rest or quiesence. There is much current interest in decoding the content of these sequences, in order to access the contents of memory retrieval, consolidation and planning. However, because these sequences are covert phenomena (i.e., without observable behavior) it is unclear how a principled approach to decoding these sequences can be made in the absence of ground truth. We can approach this problem in two ways. The first is to [optimize decoding for generalization performance and quantify the effect or parameter choice and biases in the input data on decoding accuracy](http://www.biorxiv.org/content/biorxiv/early/2017/01/24/066670.full.pdf). The second is to develop a generative model of hippocampal replay and establish a suite of population level statistical measures. To the extent that the model generated data is a good description of experimental data at the population level, the simulated data can then be used to determine how to best approach decoding the (now known) ground truth<sup>1</sup>.
 <br><br>
 
@@ -36,7 +37,7 @@ Finding new ways to think about data and discovering tools to probe different ki
 
 ---
 
-<font size="3">
+<font size="2">
 <ol style="text-align: left">
 	<li>Johnson, A., Fenton, A. a., Kentros, C., & Redish, a. D. (2009). Looking for cognition in the structure within the noise. Trends in Cognitive Sciences, 13(2), 55–64. 
 	<a href="http://doi.org/10.1016/j.tics.2008.11.005">[DOI link]</a></li>
@@ -59,11 +60,26 @@ Finding new ways to think about data and discovering tools to probe different ki
 </font>
 
 
+<!-- 
 
+actions:
+	- label: "home"
+	icon: home
+	url: index.html
 
+	- label: "about"
+	icon: user
+	url: about.html
 
+	- label: "&nbsp;&nbsp;&nbsp;fun"
+	icon: gamepad
+	url: "fun.html"
 
+	- label: "cv"
+	icon: university
+	url: "cv.html"
 
+ -->
 
 
 
