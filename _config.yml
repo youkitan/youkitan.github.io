@@ -16,7 +16,7 @@
 lang: en-US
 title: Scope2Scanner
 email: youkitan.gr@dartmouth.com
-description: A strange look into the life of me
+description: Personal website of Youki Tanaka
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: youkitan.github.io
 author:
@@ -26,6 +26,9 @@ author:
 twitter_username: youkitn
 github_username: youkitan
 logo: /assets/images/s2s_logo.png
+social:
+  name: Youki Tanaka
+
 
 # Build settings
 markdown: kramdown
