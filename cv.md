@@ -1,6 +1,7 @@
 ---
 title: "CV"
 alt_title: "Curriculum Vitæ"
+sub_title: "Serious business"
 layout: cv
 
 image: /assets/images/profile2.png
