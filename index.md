@@ -2,7 +2,7 @@
 layout: home
 paginate: true
 alt_title: "Hi! I'm Youki Tanaka!"
-sub_title: "Stay a while and listen..."
+sub_title: "Stay awhile and listen..."
 image: /assets/images/SWR.png
 
 actions:

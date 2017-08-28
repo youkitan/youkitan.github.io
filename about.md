@@ -6,7 +6,7 @@ image: /assets/images/profile2.png
 
 author:
   name: "Youki Tanaka"
-  picture: /assets/images/profile.png
+  picture: /assets/images/profile.jpg
 
 ---
 #### Long long time ago in a galaxy far far away...
