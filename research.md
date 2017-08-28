@@ -6,6 +6,24 @@ sub_title: "Scopes to scanners: connecting research one synapse at a time"
 paginate: true
 image: /assets/images/research2.png
 
+
+actions:
+  - label: "home"
+    icon: home
+    url: index.html
+
+  - label: "about"
+    icon: user
+    url: about.html
+
+  - label: "&nbsp;&nbsp;&nbsp;fun"
+    icon: gamepad
+    url: "fun.html"
+
+  - label: "cv"
+    icon: university
+    url: "cv.html"
+
 ---
 Broadly speaking, my research interests can be captured by three questions: 1) does it combine ideas or methods from multiple disciplines? 2) does it help me towards my goal of understanding curiosity, or intrinsic motivation? 3) does it help improve the way people can do research?
 
@@ -60,26 +78,7 @@ Finding new ways to think about data and discovering tools to probe different ki
 </font>
 
 
-<!-- 
 
-actions:
-	- label: "home"
-	icon: home
-	url: index.html
-
-	- label: "about"
-	icon: user
-	url: about.html
-
-	- label: "&nbsp;&nbsp;&nbsp;fun"
-	icon: gamepad
-	url: "fun.html"
-
-	- label: "cv"
-	icon: university
-	url: "cv.html"
-
- -->
 
 
 
