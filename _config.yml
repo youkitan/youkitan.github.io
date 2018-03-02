@@ -30,8 +30,8 @@ social:
   name: Youki Tanaka
 
 # analytics
- google_analytics: UA-114933175-1
- 
+google_analytics: UA-114933175-1
+
 # Build settings
 markdown: kramdown
 # parse_block_html: true # parse markdown inside block-level HTML tag
